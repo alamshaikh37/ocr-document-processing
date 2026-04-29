@@ -1,4 +1,8 @@
+
 # Document Processing and Data Extraction using OCR
+
+📌 Note
+Only sample files are uploaded due to GitHub size limitations.
 
 ## Overview
 This project extracts key information from invoices using OCR and Computer Vision.
